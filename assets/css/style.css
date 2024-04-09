@@ -1,0 +1,144 @@
+header{
+/* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    /* UI Properties */
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+   }
+   main{
+    /* Layout Properties */
+        top: 73px;
+        left: 0px;
+        width: 1280px;
+        height: 727px;
+        /* UI Properties */
+        background: transparent url('img/photo-1516008805996-d2abb468cc9a.png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+   }
+   .cuadro1{
+    display: flex;
+    top: 800px;
+        left: 0px;
+        width: 1280px;
+        height: 348px;
+        background: #000000 0% 0% no-repeat padding-box;
+        opacity: 1;
+        justify-content: space-around;
+        align-items: center
+   }
+   .parrafo1{
+    margin-top: 2em;
+        left: 150px;
+        width: 475px;
+        height: 197px;
+        text-align: left;
+        font: normal normal 300 16px/19px Raleway;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+
+   }
+   .imagen1{
+    margin-top: 2em;
+    width: 399px;
+    height: 237px;
+    left: 731px;        
+        
+   }
+
+   .cuadro2{
+    display: flex;
+    top: 1141px;
+        left: 0px;
+        width: 1280px;
+        height: 348px;
+        background: #1E1A13 0% 0% no-repeat padding-box;
+        opacity: 1.98;
+        color: white;
+           }
+
+    .iconos{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 5em;
+    }
+   h2{
+    top: 1216px;
+        left: 1464px;
+        width: 1356px;
+        height: 47px;
+        text-align: center;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1; 
+        font: normal normal 356 40px/47px Raleway;
+           
+           
+   }
+.cuadro3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 1488px;
+        left: 0px;
+        width: 1280px;
+        height: 348px;
+        background: #000000 0% 0% no-repeat padding-box;
+        opacity: 0.96;
+
+      }
+        .imagen2{
+        top: 1561px;
+            left: 150px;
+            width: 316px;
+            height: 202px;
+            background: transparent url('../img/iguana-2.jpg') 0% 0% no-repeat padding-box;
+            opacity: 1;
+            
+            }
+        .imagen3{
+            top: 1561px;
+                left: 482px;
+                width: 316px;
+                height: 202px;
+                background: transparent url('../img/iguana-3.jpg') 0% 0% no-repeat padding-box;
+                opacity: 1;
+        }
+        .imagen4{
+            top: 1561px;
+                left: 814px;
+                width: 316px;
+                height: 202px;
+                background: transparent url('../img/iguana-4.jpg') 0% 0% no-repeat padding-box;
+                opacity: 1;
+        }
+    
+                
+.cuadro4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 1835px;
+        left: 0px;
+        width: 1280px;
+        height: 102px;
+        background: #1E1A13 0% 0% no-repeat padding-box;
+        opacity: 0.94;
+}
+.footer{
+top: 1874px;
+    width: 1282px;
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    justify-items: end; 
+     
+}
